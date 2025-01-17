@@ -8,7 +8,7 @@ This program gives you a message "hello world!" in funny letters in your console
 I am Trying to gain a number of points that will determin my sucsessfulness in this particular feild in any career. That feild involves practical uses and applications of computer programming. I hope that these points will be earned and serve me well in guaging how i will do with forwarding my experise and career options. This program is part of that point value gain and will do well for me. This paragraph however might be against the spirit of earning those particular mystery points. 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://www.youtube.com/watch?v=_CI-0E_jses&list=PLGBuKfnErZlAbSKSqxheGkhdKu1703cfk)
+[Software Demo Video](https://photos.app.goo.gl/u8Wmgpq5A8gXshM3A)
 
 # Development Environment
 
